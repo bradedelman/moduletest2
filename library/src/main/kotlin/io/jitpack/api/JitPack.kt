@@ -1,6 +1,6 @@
 package io.jitpack.api
 
-class Foo {
+open class Foo {
 
 	fun brad()
 	{
